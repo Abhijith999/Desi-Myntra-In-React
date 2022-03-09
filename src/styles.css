@@ -1,0 +1,26 @@
+body {
+  margin: 30px;
+}
+h1 {
+  text-align: center;
+}
+img {
+  width: 150px;
+  height: 180px;
+  margin: 0px 30px;
+  border: 1px solid black;
+}
+.product {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  border: 1px solid black;
+  padding: 8px;
+  margin: 2px;
+}
+span {
+  font-size: 20px;
+}
+.container {
+  display: flex;
+}
